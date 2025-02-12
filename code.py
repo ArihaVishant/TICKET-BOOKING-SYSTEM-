@@ -3,7 +3,7 @@ f = 0
   
 #this t_movie function is used to select movie name 
 def t_movie(): 
-    global f     
+    glob f     
     f = f+1 
     print("which movie do you want to watch?") 
     print("1,movie 1 ")     
