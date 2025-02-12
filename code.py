@@ -15,7 +15,7 @@ def t_movie():
       # in this it goes to center function and from center it goes to movie function and it comes back here and then go to theater       
         center()       
         theater()      
-        return    
+        return 0    
     if f == 1:       
         theater() 
   
