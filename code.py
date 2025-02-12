@@ -108,7 +108,7 @@ def city():
     elif place == 3: 
       center()     
     else: 
-      print("wrong choce") 
+      print("wrong choice") 
   
   
 city() # it calls the function city 
